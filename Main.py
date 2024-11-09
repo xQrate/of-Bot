@@ -4,9 +4,9 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Укажите токен вашего бота
-TELEGRAM_BOT_TOKEN = '7839059673:AAGTE4E6q6_gn1Npk3yhaWIzxkjpNxMb5AI' #пример апи
+TELEGRAM_BOT_TOKEN = '' #пример апи
 # Укажите ваш идентификатор пользователя
-AUTHORIZED_USER_ID = 1075341837  # Замените на ваш ID
+AUTHORIZED_USER_ID =   # Замените на ваш ID
 
 # Включаем логирование
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
